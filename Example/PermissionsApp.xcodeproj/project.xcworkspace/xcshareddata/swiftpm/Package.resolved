@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PermissionKit",
+        "repositoryURL": "https://github.com/bretsko/PermissionKit",
+        "state": {
+          "branch": null,
+          "revision": "f43ce49985b231282bee865354af5257b1b4f27f",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

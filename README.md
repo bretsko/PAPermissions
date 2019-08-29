@@ -26,38 +26,8 @@ PAPermissions requires iOS8+, compatible with both Swift 4 and Objective-C based
 
 If you are looking for the Swift 2 version of it, please check out the [legacy branch](https://github.com/pascalbros/PAPermissions/tree/legacy)
 If you are looking for the Swift 3 version of it, please check out the [legacy branch](https://github.com/pascalbros/PAPermissions/tree/swift3)
-## Installation
 
-
-### CocoaPods
-
-[CocoaPods](http://cocoapods.org) is a dependency manager for Cocoa projects.
-
-To integrate PAPermissions into your Xcode project using CocoaPods, specify it in your `Podfile`:
-
-```ruby
-pod 'PAPermissions'
 ```
-
-Then, run the following command:
-
-```bash
-$ pod install
-```
-
-### Manual Installation
-
-Just copy the PAPermissions folder in your project
-
-## Run the Example
-
-Clone the repo, cd into `Example`:
-
-```bash
-$ pod install
-```
-
-Or open the project (the blue icon) and copy the PAPermissions folder inside.
 
 ## Screenshots
 
